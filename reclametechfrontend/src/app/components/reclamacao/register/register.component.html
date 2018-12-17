@@ -1,0 +1,67 @@
+<div class="container-fluid">
+  <div class="block-context row">
+    <div class="col-12 title-page">
+      <h1 [(ngModel)]="nomeUsuario">Reclamar da empresa {{ empresa?.nomeUsuario }}</h1>
+    </div>
+    <div class="col-12">
+      <form [formGroup]="formReclamacao" (ngSubmit)="onSubmit()" class="form-horizontal">
+        <div class="row box-content-style">
+          <div class="form-group col-md-7 campos">
+            <label>Titulo da reclamação</label>
+            <input type="text" formControlName="tituloReclamacao" class="form-control" [(ngModel)]="reclamacao.tituloReclamacao"
+              placeholder="Titulo da reclamação" [ngClass]="{ 'is-invalid': submitted && f.tituloReclamacao.errors }"
+              tabindex="2" />
+            <div *ngIf="submitted && f.tituloReclamacao.errors" class="invalid-feedback">
+              <div *ngIf="f.tituloReclamacao.errors.required">Titulo da reclamação é obrigatorio!</div>
+            </div>
+          </div>
+
+          <div class="form-group col-md-7 campos">
+            <label>Produto ou serviço reclamado</label>
+            <input type="text" formControlName="produtoEmpresa" class="form-control" [(ngModel)]="reclamacao.produtoEmpresa"
+              placeholder="Produto ou serviço reclamado" [ngClass]="{ 'is-invalid': submitted && f.produtoEmpresa.errors }"
+              tabindex="3" />
+            <div *ngIf="submitted && f.produtoEmpresa.errors" class="invalid-feedback">
+              <div *ngIf="f.produtoEmpresa.errors.required">campo obrigatorio!</div>
+            </div>
+          </div>
+
+          <div class="form-group col-md-5 campos">
+            <label>Funcionario</label>
+            <input type="text" formControlName="prestadorServico" class="form-control" [(ngModel)]="reclamacao.prestadorServico"
+              placeholder="Funcionario" [ngClass]="{ 'is-invalid': submitted && f.prestadorServico.errors }" tabindex="4" />
+            <div *ngIf="submitted && f.prestadorServico.errors" class="invalid-feedback">
+              <div *ngIf="f.prestadorServico.errors.maxLength">Funcionario deve conter no maximo 50
+                characters</div>
+            </div>
+          </div>
+
+          <div class="form-group col-md-7  campos">
+            <label>Descreva sua reclamação</label>
+            <textarea type="text" formControlName="comentario" class="form-control" rows="4" cols="50" [(ngModel)]="resposta"
+              placeholder="Descreva sua reclamação" [ngClass]="{ 'is-invalid': submitted && f.comentario.errors }"
+              tabindex="4"></textarea>
+            <div *ngIf="submitted && f.comentario.errors" class="invalid-feedback">
+              <div *ngIf="f.comentario.errors.required">campo obrigatorio!</div>
+              <div *ngIf="f.comentario.errors.maxLength">Descreva sua reclamação deve conter no maximo 500
+                characters</div>
+            </div>
+          </div>
+
+          <div class="col-12">
+            <div class="row">
+              <div class="form col-12">
+                <button (click)="validateForm()" [disabled]="loading" class="btn btn-success form-control col-md-2">
+                  Finalizar
+                </button>
+                <button type="reset" class="btn btn-warning  form-control col-md-2">
+                  Limpar
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

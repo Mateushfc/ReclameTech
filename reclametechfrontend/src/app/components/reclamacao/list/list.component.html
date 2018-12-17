@@ -1,0 +1,12 @@
+<div>
+  <h3>Selecione a empresa que deseja fazer uma reclamação</h3>
+</div>
+
+<div class="container">
+  <div *ngFor="let item of empresa" class="card " style="color:white">
+    <div class="container " [routerLink]="['/reclamacao/register',item.Id_empresa]">
+      <div class="form col-12">->{{item.nomeUsuario}}</div>
+      <hr style="border-color:white">
+    </div>
+  </div>
+</div>

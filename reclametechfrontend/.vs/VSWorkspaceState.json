@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\areaEmpresa"
+  ],
+  "SelectedNode": "\\src\\app\\components\\areaEmpresa\\area-empresa-routing.module.ts",
+  "PreviewInSolutionExplorer": false
+}

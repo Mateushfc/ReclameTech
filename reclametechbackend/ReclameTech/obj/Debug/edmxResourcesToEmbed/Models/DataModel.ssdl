@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Models.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tb_AreaEmpresa">
+    <Key>
+      <PropertyRef Name="Id_area" />
+    </Key>
+    <Property Name="Id_area" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="areaAtuacao" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tb_Cidade">
+    <Key>
+      <PropertyRef Name="Id_Cidade" />
+    </Key>
+    <Property Name="Id_Cidade" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomeCidade" Type="varchar" MaxLength="50" />
+    <Property Name="cep" Type="char" MaxLength="14" />
+    <Property Name="fk_Estado" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_Comentario">
+    <Key>
+      <PropertyRef Name="Id_comentario" />
+    </Key>
+    <Property Name="Id_comentario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="comentario" Type="varchar" MaxLength="500" Nullable="false" />
+    <Property Name="fk_comentario" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_Consumidor">
+    <Key>
+      <PropertyRef Name="Id_consumidor" />
+    </Key>
+    <Property Name="Id_consumidor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="senhaConsumidor" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="emailConsumidor" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cpf" Type="nvarchar" MaxLength="18" Nullable="false" />
+    <Property Name="telefoneConsumidor" Type="varchar" MaxLength="50" />
+    <Property Name="nomeConsumidor" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fk_cidade" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_Empresa">
+    <Key>
+      <PropertyRef Name="Id_empresa" />
+    </Key>
+    <Property Name="Id_empresa" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="enderecoPJ" Type="varchar" MaxLength="50" />
+    <Property Name="senhaPJ" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="emailPJ" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cnpj" Type="nvarchar" MaxLength="18" Nullable="false" />
+    <Property Name="telefonePJ" Type="varchar" MaxLength="50" />
+    <Property Name="nomeUsuario" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="fk_areaEmpresa" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_Estado">
+    <Key>
+      <PropertyRef Name="Id_estado" />
+    </Key>
+    <Property Name="Id_estado" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nomeEstado" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="tb_Reclamacao">
+    <Key>
+      <PropertyRef Name="Id_reclamacao" />
+    </Key>
+    <Property Name="Id_reclamacao" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="data" Type="datetime" Nullable="false" />
+    <Property Name="produtoEmpresa" Type="varchar" MaxLength="50" />
+    <Property Name="respostaEmpresa" Type="varchar" MaxLength="500" />
+    <Property Name="tituloReclamacao" Type="varchar" MaxLength="100" />
+    <Property Name="prestadorServico" Type="varchar" MaxLength="50" />
+    <Property Name="fk_consumidor" Type="int" />
+    <Property Name="fk_status" Type="int" />
+    <Property Name="fk_empresa" Type="int" />
+    <Property Name="fk_comentario" Type="int" />
+  </EntityType>
+  <EntityType Name="tb_Status">
+    <Key>
+      <PropertyRef Name="Id_status" />
+    </Key>
+    <Property Name="Id_status" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="status" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_tb_Cidade_ToEstado">
+    <End Role="tb_Estado" Type="Self.tb_Estado" Multiplicity="0..1" />
+    <End Role="tb_Cidade" Type="Self.tb_Cidade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Estado">
+        <PropertyRef Name="Id_estado" />
+      </Principal>
+      <Dependent Role="tb_Cidade">
+        <PropertyRef Name="fk_Estado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Comentario_ToComentario">
+    <End Role="tb_Comentario" Type="Self.tb_Comentario" Multiplicity="0..1" />
+    <End Role="tb_Comentario1" Type="Self.tb_Comentario" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Comentario">
+        <PropertyRef Name="Id_comentario" />
+      </Principal>
+      <Dependent Role="tb_Comentario1">
+        <PropertyRef Name="fk_comentario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Consumidor_ToCidade">
+    <End Role="tb_Cidade" Type="Self.tb_Cidade" Multiplicity="0..1" />
+    <End Role="tb_Consumidor" Type="Self.tb_Consumidor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Cidade">
+        <PropertyRef Name="Id_Cidade" />
+      </Principal>
+      <Dependent Role="tb_Consumidor">
+        <PropertyRef Name="fk_cidade" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Empresa_ToArea">
+    <End Role="tb_AreaEmpresa" Type="Self.tb_AreaEmpresa" Multiplicity="0..1" />
+    <End Role="tb_Empresa" Type="Self.tb_Empresa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_AreaEmpresa">
+        <PropertyRef Name="Id_area" />
+      </Principal>
+      <Dependent Role="tb_Empresa">
+        <PropertyRef Name="fk_areaEmpresa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToComentario">
+    <End Role="tb_Comentario" Type="Self.tb_Comentario" Multiplicity="0..1" />
+    <End Role="tb_Reclamacao" Type="Self.tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Comentario">
+        <PropertyRef Name="Id_comentario" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_comentario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToEmpresa">
+    <End Role="tb_Empresa" Type="Self.tb_Empresa" Multiplicity="0..1" />
+    <End Role="tb_Reclamacao" Type="Self.tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Empresa">
+        <PropertyRef Name="Id_empresa" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_empresa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToStatus">
+    <End Role="tb_Status" Type="Self.tb_Status" Multiplicity="0..1" />
+    <End Role="tb_Reclamacao" Type="Self.tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Status">
+        <PropertyRef Name="Id_status" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_status" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToUsuario">
+    <End Role="tb_Consumidor" Type="Self.tb_Consumidor" Multiplicity="0..1" />
+    <End Role="tb_Reclamacao" Type="Self.tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Consumidor">
+        <PropertyRef Name="Id_consumidor" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_consumidor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ModelsStoreContainer">
+    <EntitySet Name="tb_AreaEmpresa" EntityType="Self.tb_AreaEmpresa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Cidade" EntityType="Self.tb_Cidade" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Comentario" EntityType="Self.tb_Comentario" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Consumidor" EntityType="Self.tb_Consumidor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Empresa" EntityType="Self.tb_Empresa" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Estado" EntityType="Self.tb_Estado" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Reclamacao" EntityType="Self.tb_Reclamacao" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="tb_Status" EntityType="Self.tb_Status" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_tb_Cidade_ToEstado" Association="Self.FK_tb_Cidade_ToEstado">
+      <End Role="tb_Estado" EntitySet="tb_Estado" />
+      <End Role="tb_Cidade" EntitySet="tb_Cidade" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Comentario_ToComentario" Association="Self.FK_tb_Comentario_ToComentario">
+      <End Role="tb_Comentario" EntitySet="tb_Comentario" />
+      <End Role="tb_Comentario1" EntitySet="tb_Comentario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Consumidor_ToCidade" Association="Self.FK_tb_Consumidor_ToCidade">
+      <End Role="tb_Cidade" EntitySet="tb_Cidade" />
+      <End Role="tb_Consumidor" EntitySet="tb_Consumidor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Empresa_ToArea" Association="Self.FK_tb_Empresa_ToArea">
+      <End Role="tb_AreaEmpresa" EntitySet="tb_AreaEmpresa" />
+      <End Role="tb_Empresa" EntitySet="tb_Empresa" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToComentario" Association="Self.FK_tb_Reclamacao_ToComentario">
+      <End Role="tb_Comentario" EntitySet="tb_Comentario" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToEmpresa" Association="Self.FK_tb_Reclamacao_ToEmpresa">
+      <End Role="tb_Empresa" EntitySet="tb_Empresa" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToStatus" Association="Self.FK_tb_Reclamacao_ToStatus">
+      <End Role="tb_Status" EntitySet="tb_Status" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToUsuario" Association="Self.FK_tb_Reclamacao_ToUsuario">
+      <End Role="tb_Consumidor" EntitySet="tb_Consumidor" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

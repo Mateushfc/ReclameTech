@@ -1,0 +1,38 @@
+<div class="page-header">
+  <h3>Início</h3>
+</div>
+<div class="container col-md-12">
+  <div class="panel panel-default" [hidden]="hideList">
+    <div class="panel-heading">Lista de Cidade</div>
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th>ID_Cidade</th>
+          <th>Cidade</th>
+          <th>Cep</th>
+          <th>ID_Estado</th>
+          <th><a [routerLink]="['/cidade/register']" title="Cadastrar">
+              <span class="btn btn-warning ">Cadastrar</span>
+            </a></th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let listCidade of cidade">
+          <td>{{listCidade.Id_Cidade}}</td>
+          <td>{{listCidade.nomeCidade}}</td>
+          <td>{{listCidade.cep}}</td>
+          <td>{{listCidade.fk_Estado}}</td>
+          <td>
+            <a [routerLink]="['/cidade/edit', cidade.Id]" title="Editar">
+              <span class="btn btn-info">Alterar</span>
+            </a>
+            <a [routerLink]="['/cidade/delete', cidade.Id]" title="Excluir">
+              <span class="btn btn-danger ">Remover</span>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+  </div>
+</div>

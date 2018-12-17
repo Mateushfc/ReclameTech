@@ -1,0 +1,100 @@
+<div class="search-page">
+  <div class="container-fluid">
+    <div class="block-context row">
+      <div class="col-12 title-page">
+        <h1 class="title">Cadastro de Empresa</h1>
+      </div>
+      <div class="col-12">
+        <form [formGroup]="formPJ" (ngSubmit)="onSubmit()" class="form-horizontal">
+          <div class="row box-content-style">
+
+            <div class="form-group col-md-6 campos">
+              <label>Nome fantasia</label>
+              <input type="text" formControlName="nomeUsuario" class="form-control" [(ngModel)]="empresa.nomeUsuario"
+                placeholder="Nome fantasia" [ngClass]="{ 'is-invalid': submitted && f.nomeUsuario.errors }" />
+              <div *ngIf="submitted && f.nomeUsuario.errors" class="invalid-feedback">
+                <div *ngIf="f.nomeUsuario.errors.required">Nome fantasia é obrigatorio!</div>
+                <div *ngIf="f.nomeUsuario.errors.maxLength">Nome fantasia deve conter no maximo 50 characters</div>
+              </div>
+            </div>
+
+            <div class="form-group col-md-4 offset-md-2 campos">
+              <label>CNPJ</label>
+              <input type="text" formControlName="cnpj" class="form-control" [(ngModel)]="empresa.cnpj" placeholder="CNPJ"
+                [ngClass]="{ 'is-invalid': submitted && f.cnpj.errors }" />
+              <div *ngIf="submitted && f.cnpj.errors" class="invalid-feedback">
+                <div *ngIf="f.cnpj.errors.required">CNPJ é obrigatorio!</div>
+                <div *ngIf="f.nomeUsuario.errors.maxLength">CNPJ deve conter no maximo 11 characters</div>
+              </div>
+            </div>
+
+            <div class="form-group col-md-4 campos">
+              <label>Telefone</label>
+              <input type="text" formControlName="telefonePJ" class="form-control" [(ngModel)]="empresa.telefonePJ"
+                placeholder="Telefone" [ngClass]="{ 'is-invalid': submitted && f.telefonePJ.errors }" />
+              <div *ngIf="submitted && f.telefonePJ.errors" class="invalid-feedback">
+                <div *ngIf="f.telefonePJ.errors.required">Telefone é obrigatorio!</div>
+              </div>
+            </div>
+
+            <div class="form-group col-md-4 campos">
+              <label>Endereço</label>
+              <input type="text" formControlName="enderecoPJ" class="form-control" [(ngModel)]="empresa.enderecoPJ"
+                placeholder="Endereço" [ngClass]="{ 'is-invalid': submitted && f.enderecoPJ.errors }" />
+              <div *ngIf="submitted && f.enderecoPJ.errors" class="invalid-feedback">
+                <div *ngIf="f.enderecoPJ.errors.required">Endereço é obrigatorio!</div>
+              </div>
+            </div>
+
+            <div class="form-group col-md-4 campos">
+              <label>Area de atuação</label>
+              <input type="text" formControlName="fk_areaEmpresa" class="form-control" [(ngModel)]="empresa.fk_areaEmpresa"
+                placeholder="Area de atuação" [ngClass]="{ 'is-invalid': submitted && f.fk_areaEmpresa.errors }" />
+              <div *ngIf="submitted && f.fk_areaEmpresa.errors" class="invalid-feedback">
+                <div *ngIf="f.fk_areaEmpresa.errors.required">Area de atuação é obrigatorio!</div>
+              </div>
+            </div>
+
+            <div class="form-group col-md-6 campos">
+              <label>E-mail</label>
+              <input type="text" formControlName="emailPJ" class="form-control" [(ngModel)]="empresa.emailPJ"
+                placeholder="exemplo@reclame.com" [ngClass]="{ 'is-invalid': submitted && f.emailPJ.errors }" />
+              <div *ngIf="submitted && f.emailPJ.errors" class="invalid-feedback">
+                <div *ngIf="f.emailPJ.errors.required">E-mail é obrigatorio!</div>
+                <div *ngIf="f.emailPJ.errors.email">E-mail invalido</div>
+              </div>
+            </div>
+
+            <div class="form-group col-md-4 offset-md-2 campos">
+              <label>Senha</label>
+              <input type="password" formControlName="senhaPJ" class="form-control" [(ngModel)]="empresa.senhaPJ"
+                placeholder="Senha" [ngClass]="{ 'is-invalid': submitted && f.senhaPJ.errors }" />
+              <div *ngIf="submitted && f.senhaPJ.errors" class="invalid-feedback">
+                <div *ngIf="f.senhaPJ.errors.required">Senha é obrigatorio!</div>
+                <div *ngIf="f.senhaPJ.errors.minlength">A senha deve conter no minimo 6 characters</div>
+                <div *ngIf="f.senhaPJ.errors.maxLength">A senha deve conter no maximo 14 characters</div>
+              </div>
+            </div>
+
+          </div>
+          <hr>
+          <div class="col-12">
+            <div class="row">
+              <div class="form col-12">
+                <button (click)="validateForm()" [disabled]="loading" class="btn btn-success form-control col-md-2">
+                  Registrar
+                </button>
+                <button type="reset" class="btn btn-warning  form-control col-md-2">
+                  Limpar
+                </button>
+                <a routerLink="/tipoUsuario">
+                  <button type="button" class=" btn btn-danger  form-control col-md-2">Voltar</button>
+                </a>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

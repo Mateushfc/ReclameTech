@@ -1,0 +1,96 @@
+<div class="col-sm-12 col-lg-12">
+  <div class="card text-white">
+    <div class="card-header">
+      <div class="row">
+        <div class="col col-xs-9 text-left">
+          <h2>{{empresa?.nomeUsuario}}</h2>
+          <div class="d-block">Endereço:{{ empresa?.enderecoPJ }}</div>
+          <div class="d-block">Área de atuação da empresa: {{ empresa?.tb_AreaEmpresa.areaAtuacao}}</div>
+          <div class="d-block">E-mail: {{empresa?.emailPJ}}</div>
+          <div class="d-block">Telefone: {{empresa?.telefonePJ}}</div>
+        </div>
+      </div>
+    </div>
+    <div class="btn rounded-btn card-footer" [routerLink]="['/reclamacao/register',empresa.Id_empresa]">
+      <span class="float-left"></span>
+      <a>Reclamar </a>
+    </div>
+  </div>
+  <br>
+
+  <div class="container  min-height-200">
+    <div class="row ">
+
+      <div class="col-xl-4 col-lg-10 ">
+        <div class="card text-white">
+          <div class="card-header bg-danger">
+            <div class="row">
+              <div class="col col-xs-9 text-center">
+                <div class="d-block">Reclamações</div>
+              </div>
+            </div>
+          </div>
+          <div class="text-center card-footer ">
+            <span class="float-left"></span>
+            <a>120 </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-lg-10">
+        <div class="card text-white">
+          <div class="card-header " style="background-color:rgb(53, 62, 187)">
+            <div class="row">
+              <div class="col col-xs-9 text-center">
+                <div class="d-block">Respondidas</div>
+              </div>
+            </div>
+          </div>
+          <div class="text-center card-footer ">
+            <span class="float-left"></span>
+            <a>115 </a>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-xl-4 col-lg-10">
+        <div class="card text-white">
+          <div class="card-header bg-success">
+            <div class="row">
+              <div class="col col-xs-9 text-center">
+                <div class="d-block">Resolvidas</div>
+              </div>
+            </div>
+          </div>
+          <div class="text-center card-footer ">
+            <span class="float-left"></span>
+            <a>110 </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="jumbotron jumbotron-fluid">
+    <h2> Reclamações </h2>
+    <br>
+
+    <div class="row">
+      <div class="col-sm-12 col-lg-12">
+        <div class="btn rounded-btn card text-white">
+          <div class="card-header">
+            <div class="row" *ngFor="let item of empresa.tb_Reclamacao">
+              <div class="col col-xs-9 text-left" [routerLink]="['/reclamacao/reposta', item.Id_reclamacao]">
+                <div class="d-block">{{item?.tituloReclamacao}}</div>
+
+                <div class="d-block"> {{item?.tb_Status.status}} </div>
+                <br>
+                <hr style="border-color: #ffffff">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

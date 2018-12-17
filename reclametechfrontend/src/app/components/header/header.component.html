@@ -1,0 +1,49 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+  <a class="navbar-brand" href="#">Reclame Tech </a>
+  <button class="navbar-toggler" type="button" (click)="toggleSidebar()">
+
+    <!-- <span class="navbar-toggler-icon"></span> -->
+    <i class="fa fa-bars text-muted" aria-hidden="true"></i>
+  </button>
+  <div class=" navbar-dark navbar-expand mr-auto  ">
+    <div class="navbar-nav list-group">
+      <a class="nav-item nav-link active" routerLink="/home">Home</a>
+      <a routerLink='/ranking' [routerLinkActive]="['router-link-active']" class="nav-item nav-link active">
+        <i class="fa fa-fw fa-trophy"></i>
+        <span>{{ 'Ranking' }}</span>
+      </a>
+      <a routerLink='/empresa' [routerLinkActive]="['router-link-active']" class="nav-item nav-link active">
+        <i class="fa fa-fw fa-building"></i>
+        <span>{{ 'Empresas' }}</span>
+      </a>
+    </div>
+  </div>
+  <ul class="navbar-nav ml-auto">
+    <a routerLink='/contato' [routerLinkActive]="['router-link-active']" class=" text-muted nav-item nav-link active">
+      <span>{{ 'Contato' }}</span>
+    </a>
+
+
+    <li class="nav-item dropdown " ngbDropdown>
+      <a href="javascript:void(0)" class="nav-link" ngbDropdownToggle>
+        <i class="fa fa-user"></i> Usuário <b class="caret"></b>
+      </a>
+      <div ngbDropdownMenu aria-labelledby="dropdownConfig">
+        <a class="dropdown-item" [routerLink]="['/consumidor/details']">
+          <i class="fa fa-fw fa-power-off"></i> {{ 'Meu perfil' }}
+        </a>
+        <a class="dropdown-item" [routerLink]="['/consumidor/reclamacoesConsumidor']">
+          <i class="fa fa-fw fa-envelope"></i> {{ 'Minhas reclamações' }}
+        </a>
+        <a class="dropdown-item" [routerLink]="['/consumidor/edit']">
+          <i class="fa fa-fw fa-gear"></i> {{ 'Editar'}}
+        </a>
+        <a class="dropdown-item" [routerLink]="['/login']" (click)="sair()">
+          <!--(click)="onLoggedout()"-->
+          <i class="fa fa-fw fa-power-off"></i> {{ 'Sair' }}
+        </a>
+      </div>
+    </li>
+  </ul>
+</nav>
+

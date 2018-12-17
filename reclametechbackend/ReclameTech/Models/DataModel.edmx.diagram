@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="762ba6d9d53943969d4f1d9f5da6aee1" Name="Diagram1" ZoomLevel="74">
+        <EntityTypeShape EntityType="Models.tb_AreaEmpresa" Width="1.5" PointX="5.625" PointY="8.625" />
+        <EntityTypeShape EntityType="Models.tb_Cidade" Width="1.5" PointX="1.25" PointY="5" />
+        <EntityTypeShape EntityType="Models.tb_Comentario" Width="1.5" PointX="9.375" PointY="3.75" />
+        <EntityTypeShape EntityType="Models.tb_Consumidor" Width="1.5" PointX="1" PointY="1.375" />
+        <EntityTypeShape EntityType="Models.tb_Empresa" Width="1.5" PointX="1" PointY="7.625" />
+        <EntityTypeShape EntityType="Models.tb_Estado" Width="1.5" PointX="3.75" PointY="5.25" />
+        <EntityTypeShape EntityType="Models.tb_Reclamacao" Width="1.5" PointX="6.625" PointY="1.5" />
+        <EntityTypeShape EntityType="Models.tb_Status" Width="1.5" PointX="9.5" PointY="1.5" />
+        <AssociationConnector Association="Models.FK_tb_Empresa_ToArea" />
+        <AssociationConnector Association="Models.FK_tb_Cidade_ToEstado" />
+        <AssociationConnector Association="Models.FK_tb_Consumidor_ToCidade" />
+        <AssociationConnector Association="Models.FK_tb_Comentario_ToComentario" />
+        <AssociationConnector Association="Models.FK_tb_Reclamacao_ToComentario" />
+        <AssociationConnector Association="Models.FK_tb_Reclamacao_ToUsuario" />
+        <AssociationConnector Association="Models.FK_tb_Reclamacao_ToEmpresa" />
+        <AssociationConnector Association="Models.FK_tb_Reclamacao_ToStatus" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

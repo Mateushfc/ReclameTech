@@ -1,0 +1,19 @@
+<div class="login-page" [@routerTransition]>
+  <div class="row justify-content-md-center">
+    <div class="col-md-4">
+      <h1>Recuperar senha</h1>
+      <p>Uma nova senha sera enviada para seu e-mail</p>
+      <br><br><br><br>
+      <form role="form">
+        <div class="form-content">
+          <div class="form-group">
+            <input type="text" class="form-control input-underline input-lg" id="" placeholder="E-mail cadastrado">
+          </div>
+        </div>
+        <a class="btn rounded-btn" [routerLink]="['/dashboard']"> Enviar </a>&nbsp;
+        <a class="btn rounded-btn" [routerLink]="['/login']"> Cancelar </a>
+        <br><br><br><br><br><br>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,37 @@
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <div class="row">
+      <h4 class="display-5 col-md-12">Conserto Smartphone</h4>
+      <a  [routerLink]="['/empresa/perfilEmpresa', reclamacao.tb_Empresa.Id_empresa]"><p class="col-sm">{{reclamacao.tb_Empresa.nomeUsuario}}</p></a>
+
+      <p class="col-sm-4 offset-md-6">Data: {{reclamacao?.data | date:"dd/MM/yyyy"}}</p>
+
+      <p class="col-sm">Produto ou serviço: {{reclamacao?.produtoEmpresa}} </p>
+      <!-- <p class="offset-md-6 col-sm-3">Status: {{tb_Status?.fk_status}} </p> -->
+      <p class="col-sm-12">Prestador de serviço: {{reclamacao?.prestadorServico}} </p>
+
+      
+      <p class="col-sm-12">Reclamação: {{reclamacao.tb_Comentario.comentario}} </p>
+      
+    </div>
+  </div>
+</div>
+<p class="col-sm-12 d-block" style=" background-color:blue; color:white" > {{reclamacao.tb_Status.status}}</p> <br>
+
+
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h4 class="display-5 col-sm-12">Resposta empresa</h4>
+    <p class="col-sm-12">{{reclamacao?.respostaEmpresa}}</p>
+  </div>
+</div>
+
+<div>
+  <div class=" col-sm-12">
+    <h2> <span class="label-field"> Responder </span></h2><br />
+    <textarea class="span12 col-sm-8" rows="8" cols="80"></textarea>
+  </div>
+  <button type="button" class="btn btn-primary">
+    Publicar
+  </button>
+</div>

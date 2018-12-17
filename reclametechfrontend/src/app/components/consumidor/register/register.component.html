@@ -1,0 +1,104 @@
+<div class="container-fluid">
+    <div class="block-context row">
+        <div class="col-12 title-page">
+            <h1 class="title">Cadastro de Consumidor</h1>
+        </div>
+        <div class="col-12">
+            <form [formGroup]="formPF" (ngSubmit)="onSubmit()" class="form-horizontal">
+                <div class="row box-content-style">
+
+                    <div class="form-group col-md-6 campos">
+                        <label>Nome completo</label>
+                        <input type="text" formControlName="nomeConsumidor" class="form-control" [(ngModel)]="consumidor.nomeConsumidor"
+                            placeholder="Nome completo" [ngClass]="{ 'is-invalid': submitted && f.nomeConsumidor.errors }"
+                            tabindex="1" />
+                        <div *ngIf="submitted && f.nomeConsumidor.errors" class="invalid-feedback">
+                            <div *ngIf="f.nomeConsumidor.errors.required">Nome completo é obrigatorio!</div>
+                            <div *ngIf="f.nomeConsumidor.errors.maxLength">Nome completo deve conter no maximo 50
+                                characters</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-4 offset-md-2 campos">
+                        <label>CPF</label>
+                        <input type="text" formControlName="cpf" class="form-control" [(ngModel)]="consumidor.cpf"
+                            placeholder="CPF" [ngClass]="{ 'is-invalid': submitted && f.cpf.errors }" tabindex="2" />
+                        <div *ngIf="submitted && f.cpf.errors" class="invalid-feedback">
+                            <div *ngIf="f.cpf.errors.required">CPF é obrigatorio!</div>
+                            <div *ngIf="f.cpf.errors.maxLength">O CPF deve conter no maximo 11 characters</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 campos">
+                        <label>Telefone</label>
+                        <input type="text" formControlName="telefoneConsumidor" class="form-control" [(ngModel)]="consumidor.telefoneConsumidor"
+                            placeholder="Telefone" [ngClass]="{ 'is-invalid': submitted && f.telefoneConsumidor.errors }"
+                            tabindex="3" />
+                        <div *ngIf="submitted && f.telefoneConsumidor.errors" class="invalid-feedback">
+                            <div *ngIf="f.telefoneConsumidor.errors.required">Telefone é obrigatorio!</div>
+                        </div>
+                    </div>
+
+                    <!-- <div class="form-group col-md-4 offset-md-2 campos">
+                            <label>Cidade</label>
+                            <input type="text" formControlName="fk_cidade" class="form-control" [(ngModel)]="consumidor.fk_cidade"
+                                placeholder="Telefone" [ngClass]="{ 'is-invalid': submitted && f.fk_cidade.errors }" />
+                            <div *ngIf="submitted && f.fk_cidade.errors" class="invalid-feedback">
+                                <div *ngIf="f.fk_cidade.errors.required">Cidade é obrigatorio!</div>
+                            </div>
+                        </div>-->
+
+                    <div class="form-group col-md-4 offset-md-2 campos">
+                        <select placeholder="Cidade" [(ngModel)]="consumidor.fk_cidade" formControlName="fk_cidade"
+                            tabindex="4">
+                            <option value="" disabled selected> Escolha uma cidade </option>
+                            <option *ngFor="let cidade of cidades" [value]="cidade.Id_Cidade">{{
+                                cidade.nomeCidade }}</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group col-md-6 campos">
+                        <label>E-mail</label>
+                        <input type="text" formControlName="emailConsumidor" class="form-control" [(ngModel)]="consumidor.emailConsumidor"
+                            placeholder="E-mail" [ngClass]="{ 'is-invalid': submitted && f.emailConsumidor.errors }"
+                            tabindex="5" />
+                        <div *ngIf="submitted && f.emailConsumidor.errors" class="invalid-feedback">
+                            <div *ngIf="f.emailConsumidor.errors.required">E-mail é obrigatorio!</div>
+                            <div *ngIf="f.emailConsumidor.errors.email">E-mail invalido</div>
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-4 offset-md-2 campos">
+                        <label>Senha</label>
+                        <input type="password" formControlName="senhaConsumidor" class="form-control" [(ngModel)]="consumidor.senhaConsumidor"
+                            placeholder="Senha" [ngClass]="{ 'is-invalid': submitted && f.senhaConsumidor.errors }"
+                            tabindex="6" />
+                        <div *ngIf="submitted && f.senhaConsumidor.errors" class="invalid-feedback">
+                            <div *ngIf="f.senhaConsumidor.errors.required">Senha é obrigatorio!</div>
+                            <div *ngIf="f.senhaConsumidor.errors.minlength">A senha deve conter no minimo 6
+                                characters</div>
+                            <div *ngIf="f.senhaConsumidor.errors.maxLength">A senha deve conter no maximo 14
+                                characters</div>
+                        </div>
+                    </div>
+                </div>
+                <hr>
+                <div class="col-12">
+                    <div class="row">
+                        <div class="form col-12">
+                            <button (click)="validateForm()" [disabled]="loading" class="btn btn-success form-control col-md-2">
+                                Registrar
+                            </button>
+                            <button type="reset" class="btn btn-warning  form-control col-md-2">
+                                Limpar
+                            </button>
+                            <a routerLink="/tipoUsuario">
+                                <button type="button" class=" btn btn-danger  form-control col-md-2">Voltar</button>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

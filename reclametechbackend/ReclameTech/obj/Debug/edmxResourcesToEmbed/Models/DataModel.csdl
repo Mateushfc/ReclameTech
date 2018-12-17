@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Models" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DataModel" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="tb_AreaEmpresa" EntityType="Models.tb_AreaEmpresa" />
+    <EntitySet Name="tb_Cidade" EntityType="Models.tb_Cidade" />
+    <EntitySet Name="tb_Comentario" EntityType="Models.tb_Comentario" />
+    <EntitySet Name="tb_Consumidor" EntityType="Models.tb_Consumidor" />
+    <EntitySet Name="tb_Empresa" EntityType="Models.tb_Empresa" />
+    <EntitySet Name="tb_Estado" EntityType="Models.tb_Estado" />
+    <EntitySet Name="tb_Reclamacao" EntityType="Models.tb_Reclamacao" />
+    <EntitySet Name="tb_Status" EntityType="Models.tb_Status" />
+    <AssociationSet Name="FK_tb_Empresa_ToArea" Association="Models.FK_tb_Empresa_ToArea">
+      <End Role="tb_AreaEmpresa" EntitySet="tb_AreaEmpresa" />
+      <End Role="tb_Empresa" EntitySet="tb_Empresa" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Cidade_ToEstado" Association="Models.FK_tb_Cidade_ToEstado">
+      <End Role="tb_Estado" EntitySet="tb_Estado" />
+      <End Role="tb_Cidade" EntitySet="tb_Cidade" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Consumidor_ToCidade" Association="Models.FK_tb_Consumidor_ToCidade">
+      <End Role="tb_Cidade" EntitySet="tb_Cidade" />
+      <End Role="tb_Consumidor" EntitySet="tb_Consumidor" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Comentario_ToComentario" Association="Models.FK_tb_Comentario_ToComentario">
+      <End Role="tb_Comentario" EntitySet="tb_Comentario" />
+      <End Role="tb_Comentario1" EntitySet="tb_Comentario" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToComentario" Association="Models.FK_tb_Reclamacao_ToComentario">
+      <End Role="tb_Comentario" EntitySet="tb_Comentario" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToUsuario" Association="Models.FK_tb_Reclamacao_ToUsuario">
+      <End Role="tb_Consumidor" EntitySet="tb_Consumidor" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToEmpresa" Association="Models.FK_tb_Reclamacao_ToEmpresa">
+      <End Role="tb_Empresa" EntitySet="tb_Empresa" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+    <AssociationSet Name="FK_tb_Reclamacao_ToStatus" Association="Models.FK_tb_Reclamacao_ToStatus">
+      <End Role="tb_Status" EntitySet="tb_Status" />
+      <End Role="tb_Reclamacao" EntitySet="tb_Reclamacao" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="tb_AreaEmpresa">
+    <Key>
+      <PropertyRef Name="Id_area" />
+    </Key>
+    <Property Name="Id_area" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="areaAtuacao" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_Empresa" Relationship="Models.FK_tb_Empresa_ToArea" FromRole="tb_AreaEmpresa" ToRole="tb_Empresa" />
+  </EntityType>
+  <EntityType Name="tb_Cidade">
+    <Key>
+      <PropertyRef Name="Id_Cidade" />
+    </Key>
+    <Property Name="Id_Cidade" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomeCidade" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cep" Type="String" MaxLength="14" FixedLength="true" Unicode="false" />
+    <Property Name="fk_Estado" Type="Int32" />
+    <NavigationProperty Name="tb_Estado" Relationship="Models.FK_tb_Cidade_ToEstado" FromRole="tb_Cidade" ToRole="tb_Estado" />
+    <NavigationProperty Name="tb_Consumidor" Relationship="Models.FK_tb_Consumidor_ToCidade" FromRole="tb_Cidade" ToRole="tb_Consumidor" />
+  </EntityType>
+  <EntityType Name="tb_Comentario">
+    <Key>
+      <PropertyRef Name="Id_comentario" />
+    </Key>
+    <Property Name="Id_comentario" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="comentario" Type="String" Nullable="false" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="fk_comentario" Type="Int32" />
+    <NavigationProperty Name="tb_Comentario1" Relationship="Models.FK_tb_Comentario_ToComentario" FromRole="tb_Comentario" ToRole="tb_Comentario1" />
+    <NavigationProperty Name="tb_Comentario2" Relationship="Models.FK_tb_Comentario_ToComentario" FromRole="tb_Comentario1" ToRole="tb_Comentario" />
+    <NavigationProperty Name="tb_Reclamacao" Relationship="Models.FK_tb_Reclamacao_ToComentario" FromRole="tb_Comentario" ToRole="tb_Reclamacao" />
+  </EntityType>
+  <EntityType Name="tb_Consumidor">
+    <Key>
+      <PropertyRef Name="Id_consumidor" />
+    </Key>
+    <Property Name="Id_consumidor" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="senhaConsumidor" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="emailConsumidor" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cpf" Type="String" Nullable="false" MaxLength="18" FixedLength="false" Unicode="true" />
+    <Property Name="telefoneConsumidor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="nomeConsumidor" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fk_cidade" Type="Int32" />
+    <NavigationProperty Name="tb_Cidade" Relationship="Models.FK_tb_Consumidor_ToCidade" FromRole="tb_Consumidor" ToRole="tb_Cidade" />
+    <NavigationProperty Name="tb_Reclamacao" Relationship="Models.FK_tb_Reclamacao_ToUsuario" FromRole="tb_Consumidor" ToRole="tb_Reclamacao" />
+  </EntityType>
+  <EntityType Name="tb_Empresa">
+    <Key>
+      <PropertyRef Name="Id_empresa" />
+    </Key>
+    <Property Name="Id_empresa" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="enderecoPJ" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="senhaPJ" Type="String" Nullable="false" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="emailPJ" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="cnpj" Type="String" Nullable="false" MaxLength="18" FixedLength="false" Unicode="true" />
+    <Property Name="telefonePJ" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="nomeUsuario" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fk_areaEmpresa" Type="Int32" />
+    <NavigationProperty Name="tb_AreaEmpresa" Relationship="Models.FK_tb_Empresa_ToArea" FromRole="tb_Empresa" ToRole="tb_AreaEmpresa" />
+    <NavigationProperty Name="tb_Reclamacao" Relationship="Models.FK_tb_Reclamacao_ToEmpresa" FromRole="tb_Empresa" ToRole="tb_Reclamacao" />
+  </EntityType>
+  <EntityType Name="tb_Estado">
+    <Key>
+      <PropertyRef Name="Id_estado" />
+    </Key>
+    <Property Name="Id_estado" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nomeEstado" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_Cidade" Relationship="Models.FK_tb_Cidade_ToEstado" FromRole="tb_Estado" ToRole="tb_Cidade" />
+  </EntityType>
+  <EntityType Name="tb_Reclamacao">
+    <Key>
+      <PropertyRef Name="Id_reclamacao" />
+    </Key>
+    <Property Name="Id_reclamacao" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="data" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="produtoEmpresa" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="respostaEmpresa" Type="String" MaxLength="500" FixedLength="false" Unicode="false" />
+    <Property Name="tituloReclamacao" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="prestadorServico" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="fk_consumidor" Type="Int32" />
+    <Property Name="fk_status" Type="Int32" />
+    <Property Name="fk_empresa" Type="Int32" />
+    <Property Name="fk_comentario" Type="Int32" />
+    <NavigationProperty Name="tb_Comentario" Relationship="Models.FK_tb_Reclamacao_ToComentario" FromRole="tb_Reclamacao" ToRole="tb_Comentario" />
+    <NavigationProperty Name="tb_Consumidor" Relationship="Models.FK_tb_Reclamacao_ToUsuario" FromRole="tb_Reclamacao" ToRole="tb_Consumidor" />
+    <NavigationProperty Name="tb_Empresa" Relationship="Models.FK_tb_Reclamacao_ToEmpresa" FromRole="tb_Reclamacao" ToRole="tb_Empresa" />
+    <NavigationProperty Name="tb_Status" Relationship="Models.FK_tb_Reclamacao_ToStatus" FromRole="tb_Reclamacao" ToRole="tb_Status" />
+  </EntityType>
+  <EntityType Name="tb_Status">
+    <Key>
+      <PropertyRef Name="Id_status" />
+    </Key>
+    <Property Name="Id_status" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="tb_Reclamacao" Relationship="Models.FK_tb_Reclamacao_ToStatus" FromRole="tb_Status" ToRole="tb_Reclamacao" />
+  </EntityType>
+  <Association Name="FK_tb_Empresa_ToArea">
+    <End Type="Models.tb_AreaEmpresa" Role="tb_AreaEmpresa" Multiplicity="0..1" />
+    <End Type="Models.tb_Empresa" Role="tb_Empresa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_AreaEmpresa">
+        <PropertyRef Name="Id_area" />
+      </Principal>
+      <Dependent Role="tb_Empresa">
+        <PropertyRef Name="fk_areaEmpresa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Cidade_ToEstado">
+    <End Type="Models.tb_Estado" Role="tb_Estado" Multiplicity="0..1" />
+    <End Type="Models.tb_Cidade" Role="tb_Cidade" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Estado">
+        <PropertyRef Name="Id_estado" />
+      </Principal>
+      <Dependent Role="tb_Cidade">
+        <PropertyRef Name="fk_Estado" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Consumidor_ToCidade">
+    <End Type="Models.tb_Cidade" Role="tb_Cidade" Multiplicity="0..1" />
+    <End Type="Models.tb_Consumidor" Role="tb_Consumidor" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Cidade">
+        <PropertyRef Name="Id_Cidade" />
+      </Principal>
+      <Dependent Role="tb_Consumidor">
+        <PropertyRef Name="fk_cidade" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Comentario_ToComentario">
+    <End Type="Models.tb_Comentario" Role="tb_Comentario" Multiplicity="0..1" />
+    <End Type="Models.tb_Comentario" Role="tb_Comentario1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Comentario">
+        <PropertyRef Name="Id_comentario" />
+      </Principal>
+      <Dependent Role="tb_Comentario1">
+        <PropertyRef Name="fk_comentario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToComentario">
+    <End Type="Models.tb_Comentario" Role="tb_Comentario" Multiplicity="0..1" />
+    <End Type="Models.tb_Reclamacao" Role="tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Comentario">
+        <PropertyRef Name="Id_comentario" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_comentario" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToUsuario">
+    <End Type="Models.tb_Consumidor" Role="tb_Consumidor" Multiplicity="0..1" />
+    <End Type="Models.tb_Reclamacao" Role="tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Consumidor">
+        <PropertyRef Name="Id_consumidor" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_consumidor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToEmpresa">
+    <End Type="Models.tb_Empresa" Role="tb_Empresa" Multiplicity="0..1" />
+    <End Type="Models.tb_Reclamacao" Role="tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Empresa">
+        <PropertyRef Name="Id_empresa" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_empresa" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_tb_Reclamacao_ToStatus">
+    <End Type="Models.tb_Status" Role="tb_Status" Multiplicity="0..1" />
+    <End Type="Models.tb_Reclamacao" Role="tb_Reclamacao" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tb_Status">
+        <PropertyRef Name="Id_status" />
+      </Principal>
+      <Dependent Role="tb_Reclamacao">
+        <PropertyRef Name="fk_status" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

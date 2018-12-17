@@ -1,0 +1,25 @@
+<div class="container col-sm-12">
+    <h2>Desativar minha conta</h2>
+  
+    <div class=" col-sm-12">
+      <span class="label-field"> Explique o motivo por desativar sua conta </span><br />
+      <textarea class="span12 col-sm-6" rows="10" cols="50"></textarea> 
+    </div>
+  
+    <div class="form-group col-md-6 campos">
+      <label class="control-label">E-mail</label>  &nbsp; <font color="red">*</font>
+      <input type="text" name="email"
+        class="form-control" placeholder="E-mail" required>
+    </div>
+    <div class="form-group col-md-6 campos">
+      <label class="control-label">Senha</label>  &nbsp; <font color="red">*</font>
+      <input type="password" name="senha"
+        class="form-control" placeholder="Senha" required>
+    </div>
+    <div class=" col-sm-12">
+        <p> Campos com <font color="red">*</font> seram obrigatorios</p>
+      </div>
+      <div class=" col-sm-12">
+        <button type="button" class="btn btn-danger " [routerLink]="['/reclamacao/reposta']">Desativar</button>
+      </div>
+  </div>

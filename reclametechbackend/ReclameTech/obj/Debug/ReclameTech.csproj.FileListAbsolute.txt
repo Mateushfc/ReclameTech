@@ -1,0 +1,925 @@
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\ApplicationInsights.config
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\csc.exe
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\csc.exe.config
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\csc.rsp
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\csi.exe
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\csi.exe.config
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\csi.rsp
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.AppContext.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Console.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.IO.Compression.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.Claims.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.ValueTuple.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\vbc.exe
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\vbc.exe.config
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\vbc.rsp
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\VBCSCompiler.exe
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\ReclameTech.dll.config
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\ReclameTech.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\ReclameTech.pdb
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Antlr3.Runtime.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\EntityFramework.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\EntityFramework.SqlServer.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.Web.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Newtonsoft.Json.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Net.Http.Formatting.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Helpers.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Http.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Http.WebHost.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Mvc.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Optimization.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Razor.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.WebPages.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.WebPages.Razor.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\WebGrease.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\EntityFramework.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\EntityFramework.SqlServer.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Newtonsoft.Json.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Net.Http.Formatting.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Helpers.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Http.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Http.WebHost.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Mvc.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Optimization.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.Razor.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.WebPages.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\System.Web.WebPages.Razor.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Antlr3.Runtime.pdb
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\bin\Microsoft.AI.Web.xml
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\obj\Debug\ReclameTech.dll
+D:\Faculdade\8P\TCC\ReclameTech\ReclameTech\obj\Debug\ReclameTech.pdb
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\ApplicationInsights.config
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\csc.exe
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\csc.exe.config
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\csc.rsp
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\csi.exe
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\csi.exe.config
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\csi.rsp
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.AppContext.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Console.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.IO.Compression.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.Claims.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.ValueTuple.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\vbc.exe
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\vbc.exe.config
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\vbc.rsp
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\VBCSCompiler.exe
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\ReclameTech.dll.config
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\ReclameTech.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\ReclameTech.pdb
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Antlr3.Runtime.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\EntityFramework.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\EntityFramework.SqlServer.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.Web.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Newtonsoft.Json.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Net.Http.Formatting.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Helpers.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Http.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Http.WebHost.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Mvc.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Optimization.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Razor.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.WebPages.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.WebPages.Razor.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\WebGrease.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\EntityFramework.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\EntityFramework.SqlServer.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Newtonsoft.Json.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Net.Http.Formatting.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Helpers.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Http.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Http.WebHost.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Mvc.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Optimization.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Razor.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.WebPages.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.WebPages.Razor.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Antlr3.Runtime.pdb
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\Microsoft.AI.Web.xml
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\obj\Debug\ReclameTech.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\obj\Debug\ReclameTech.pdb
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Cors.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Http.Cors.dll
+F:\SoftwareTCC\ReclameTechd27-09 h20-39\ReclameTech\bin\System.Web.Http.Cors.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ApplicationInsights.config
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.exe
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.exe.config
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.rsp
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.exe
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.exe.config
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.rsp
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Console.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.exe
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.rsp
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.dll.config
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.pdb
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Cors.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Helpers.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Mvc.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Optimization.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Razor.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\WebGrease.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Helpers.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Mvc.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Optimization.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Razor.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+D:\Faculdade\8P\TCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.pdb
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ApplicationInsights.config
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.exe
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.exe.config
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.rsp
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.exe
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.exe.config
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.rsp
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Console.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.exe
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.rsp
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.dll.config
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.pdb
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Cors.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Helpers.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Mvc.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Optimization.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Razor.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\WebGrease.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Helpers.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Mvc.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Optimization.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Razor.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+F:\SoftwareTCC\software tcc\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.pdb
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\ApplicationInsights.config
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.exe
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.exe.config
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csc.rsp
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.exe
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.exe.config
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\csi.rsp
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Console.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.exe
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\vbc.rsp
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.dll.config
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\ReclameTech.pdb
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Cors.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Helpers.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Mvc.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Optimization.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Razor.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\WebGrease.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Helpers.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Mvc.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Optimization.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.Razor.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+C:\Users\Bruno-Not\Desktop\AQUI DESGRAÇA\ReclameTech-BackEnd\ReclameTech\obj\Debug\ReclameTech.pdb
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\ApplicationInsights.config
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe.config
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.rsp
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe.config
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.rsp
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Console.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.rsp
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll.config
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.pdb
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Cors.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\WebGrease.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csprojAssemblyReference.cache
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CopyComplete
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+C:\Users\sandr\Desktop\Nova Pasta\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.pdb
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\ApplicationInsights.config
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe.config
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.rsp
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe.config
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.rsp
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Console.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.rsp
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll.config
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.pdb
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Cors.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\WebGrease.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+D:\Banca 30-11\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.pdb
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\ApplicationInsights.config
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe.config
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.rsp
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe.config
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.rsp
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Console.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.rsp
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll.config
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.pdb
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Cors.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\WebGrease.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+F:\SoftwareTCC\banca-master\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.pdb
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\ApplicationInsights.config
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.exe.config
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\csc.rsp
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.exe.config
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\csi.rsp
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.AppContext.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Console.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.exe.config
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\vbc.rsp
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll.config
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\ReclameTech.pdb
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Cors.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\WebGrease.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\EntityFramework.SqlServer.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Net.Http.Formatting.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.Cors.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Newtonsoft.Json.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Helpers.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Http.WebHost.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Mvc.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Optimization.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.Razor.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Antlr3.Runtime.pdb
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\bin\Microsoft.AI.Web.xml
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csprojResolveAssemblyReference.cache
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.csproj.CoreCompileInputs.cache
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.dll
+C:\Users\Bruno-Not\Desktop\AprezentacaoBanca\ReclameTechBackEnd\ReclameTech\obj\Debug\ReclameTech.pdb

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelsStoreContainer" CdmEntityContainer="DataModel">
+    <EntitySetMapping Name="tb_AreaEmpresa">
+      <EntityTypeMapping TypeName="Models.tb_AreaEmpresa">
+        <MappingFragment StoreEntitySet="tb_AreaEmpresa">
+          <ScalarProperty Name="areaAtuacao" ColumnName="areaAtuacao" />
+          <ScalarProperty Name="Id_area" ColumnName="Id_area" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Cidade">
+      <EntityTypeMapping TypeName="Models.tb_Cidade">
+        <MappingFragment StoreEntitySet="tb_Cidade">
+          <ScalarProperty Name="fk_Estado" ColumnName="fk_Estado" />
+          <ScalarProperty Name="cep" ColumnName="cep" />
+          <ScalarProperty Name="nomeCidade" ColumnName="nomeCidade" />
+          <ScalarProperty Name="Id_Cidade" ColumnName="Id_Cidade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Comentario">
+      <EntityTypeMapping TypeName="Models.tb_Comentario">
+        <MappingFragment StoreEntitySet="tb_Comentario">
+          <ScalarProperty Name="fk_comentario" ColumnName="fk_comentario" />
+          <ScalarProperty Name="comentario" ColumnName="comentario" />
+          <ScalarProperty Name="Id_comentario" ColumnName="Id_comentario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Consumidor">
+      <EntityTypeMapping TypeName="Models.tb_Consumidor">
+        <MappingFragment StoreEntitySet="tb_Consumidor">
+          <ScalarProperty Name="fk_cidade" ColumnName="fk_cidade" />
+          <ScalarProperty Name="nomeConsumidor" ColumnName="nomeConsumidor" />
+          <ScalarProperty Name="telefoneConsumidor" ColumnName="telefoneConsumidor" />
+          <ScalarProperty Name="cpf" ColumnName="cpf" />
+          <ScalarProperty Name="emailConsumidor" ColumnName="emailConsumidor" />
+          <ScalarProperty Name="senhaConsumidor" ColumnName="senhaConsumidor" />
+          <ScalarProperty Name="Id_consumidor" ColumnName="Id_consumidor" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Empresa">
+      <EntityTypeMapping TypeName="Models.tb_Empresa">
+        <MappingFragment StoreEntitySet="tb_Empresa">
+          <ScalarProperty Name="fk_areaEmpresa" ColumnName="fk_areaEmpresa" />
+          <ScalarProperty Name="nomeUsuario" ColumnName="nomeUsuario" />
+          <ScalarProperty Name="telefonePJ" ColumnName="telefonePJ" />
+          <ScalarProperty Name="cnpj" ColumnName="cnpj" />
+          <ScalarProperty Name="emailPJ" ColumnName="emailPJ" />
+          <ScalarProperty Name="senhaPJ" ColumnName="senhaPJ" />
+          <ScalarProperty Name="enderecoPJ" ColumnName="enderecoPJ" />
+          <ScalarProperty Name="Id_empresa" ColumnName="Id_empresa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Estado">
+      <EntityTypeMapping TypeName="Models.tb_Estado">
+        <MappingFragment StoreEntitySet="tb_Estado">
+          <ScalarProperty Name="nomeEstado" ColumnName="nomeEstado" />
+          <ScalarProperty Name="Id_estado" ColumnName="Id_estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Reclamacao">
+      <EntityTypeMapping TypeName="Models.tb_Reclamacao">
+        <MappingFragment StoreEntitySet="tb_Reclamacao">
+          <ScalarProperty Name="fk_comentario" ColumnName="fk_comentario" />
+          <ScalarProperty Name="fk_empresa" ColumnName="fk_empresa" />
+          <ScalarProperty Name="fk_status" ColumnName="fk_status" />
+          <ScalarProperty Name="fk_consumidor" ColumnName="fk_consumidor" />
+          <ScalarProperty Name="prestadorServico" ColumnName="prestadorServico" />
+          <ScalarProperty Name="tituloReclamacao" ColumnName="tituloReclamacao" />
+          <ScalarProperty Name="respostaEmpresa" ColumnName="respostaEmpresa" />
+          <ScalarProperty Name="produtoEmpresa" ColumnName="produtoEmpresa" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="Id_reclamacao" ColumnName="Id_reclamacao" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="tb_Status">
+      <EntityTypeMapping TypeName="Models.tb_Status">
+        <MappingFragment StoreEntitySet="tb_Status">
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="Id_status" ColumnName="Id_status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,34 @@
+<div class="col-sm-12 col-lg-12">
+  <div class="card text-white">
+    <div class="card-header bordd">
+      <div class="row">
+        <div class="col col-xs-9 text-left">
+          <font size="5">
+          <div class="d-block col-sm-12">Nome: Mateus</div>
+          <div class="d-block col-sm-12">E-mail: mateus@hotmail.com</div>
+          <div class="d-block col-sm-12">CPF: 12345678910</div>
+          <div class="d-block col-sm-12">Telefone: 9994144444</div>
+          <div class="d-block col-sm-12">Cidade: Unaí</div>
+          <div class="d-block col-sm-12">Estado: MG</div>
+        </font>
+        </div>
+      </div>
+    </div>
+
+    <div class="btn rounded-btn card-footer" style="background-color:rgb(54, 194, 72) " [routerLink]="['/consumidor/edit']">
+      <span class="float-left"></span>
+      <a>Editar </a>
+    </div>
+
+    <div class="btn rounded-btn card-footer"  [routerLink]="['/consumidor/reclamacoesConsumidor']">
+      <span class="float-left"></span>
+      <a>Minhas reclamações </a>
+    </div>
+
+    <div class="btn rounded-btn card-footer" style="background-color:rgb(149, 2, 2) " [routerLink]="['/consumidor/delete']">
+      <span class="float-left"></span>
+      <a>Desativar conta </a>
+    </div>
+  </div>
+  <br>
+</div>

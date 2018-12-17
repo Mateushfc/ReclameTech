@@ -1,0 +1,82 @@
+<div class="search-page">
+  <div class="container-fluid">
+    <div class="block-context row">
+      <div class="col-12 title-page">
+        <h1 class="title">Editar dados da empresa</h1>
+      </div>
+      <div class="col-12">
+        <form [formGroup]="formPJ" #f autocomplete="off" class="form-horizontal">
+          <div class="row box-content-style">
+
+            <!-- <div class="form-group col-md-6 campos " [ngClass]="aplicaCssError('nome')">
+              <label class="control-label">Nome fantasia</label>
+              <input type="text" [(ngModel)]="empresa.nomeUsuario" #nome="ngModel" class="form-control" tabindex="1"
+                placeholder="Nome fantasia">
+
+              <app-campo-control-erro [mostrarErro]="verificaValidTouched(nome)" msgErro="Nome fantasia é obrigatório">
+
+              </app-campo-control-erro>
+            </div> -->
+            <div class="form col-md-6 campos">
+              <label class="control-label">Nome fantasia</label>
+              <input type="text" name="cnpj" #cnpj="ngModel" [(ngModel)]="empresa.nomeUsuario" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="2" placeholder="Nome fantasia">
+            </div>
+
+
+            <div class="form col-md-4 offset-md-1 campos">
+              <label class="control-label">CNPJ</label>
+              <input type="text" name="cnpj" #cnpj="ngModel" [(ngModel)]="empresa.cnpj" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="2" placeholder="CNPJ">
+            </div>
+
+            <div class="form col-md-4 campos ">
+              <label class="control-label">Telefone</label>
+              <input type="text" name="telefone" #telefone="ngModel" [(ngModel)]="empresa.telefonePJ" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="3" placeholder="Telefone para contato">
+            </div>
+
+            <div class="form col-md-6 offset-md-1 campos">
+              <label class="control-label">Endereço</label>
+              <input type="text" name="endereco" #endereco="ngModel" [(ngModel)]="empresa.enderecoPJ" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="4" placeholder="Endereço">
+            </div>
+
+            <div class="form col-md-4 campos">
+              <label class="control-label">Area de atuação</label>
+              <input type="text" name="area" #area="ngModel" [(ngModel)]="empresa.fk_areaEmpresa" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="5" placeholder="Area de atuação">
+            </div>
+
+            <div class="form col-md-6  campos offset-md-1">
+              <label class="control-label">E-mail</label>
+              <input type="text" name="email" #email="ngModel" [(ngModel)]="empresa.emailPJ" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="6" placeholder="E-mail">
+            </div>
+
+            <div class="form col-md-4 campos">
+              <label class="control-label">Senha antiga</label>
+              <input type="password" name="senha" #senha="ngModel" [(ngModel)]="empresa.senhaPJ" [ngModelOptions]="{standalone: true}"
+                class="form-control" tabindex="7" placeholder="Senha antiga">
+            </div>
+            <div class="form-group col-md-4 offset-md-1 campos">
+              <label class="control-label">Nova senha</label>
+              <input type="password" class="form-control" value="bpm160596" placeholder="Nova senha" >
+            </div>
+
+          </div>
+          <hr>
+          <div class="col-12">
+            <div class="row">
+              <div class="form col-12">
+                <button type="button" class="btn btn-success">
+                  Atualizar
+                </button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,85 @@
+<div class="jumbotron jumbotron-fluid">
+  <h2>Suas Reclamações </h2>
+  <br>
+
+  <div class="row ">
+    <div class="col-sm-4 offset-md-1">
+      <div class="btn rounded-btn card text-white">
+        <div class="card-header">
+          <div class="row">
+            <div class="col col-xs-9 text-left">
+              <div class="d-block">Conserto Smartphone</div>
+              <a class=" lead nav-link active" [routerLink]="['/empresa/perfilEmpresa']">Eletricom</a>
+              <br>
+              <div class="d-block"> Não respondida </div>
+            </div>
+          </div>
+        </div>
+        <div class="btn btn-danger " [routerLink]="['/reclamacao/delete']">
+          <span class="float-left"></span>
+          <a>Apagar </a>
+        </div>
+      </div>
+    </div> <br><br><br><br><br>
+
+    <div class="col-sm-4 offset-md-1">
+      <div class="btn rounded-btn card text-white">
+        <div class="card-header">
+          <div class="row">
+            <div class="col col-xs-9 text-left">
+              <div class="d-block">Atendimento</div>
+              <a class=" lead nav-link active" [routerLink]="['/empresa/perfilEmpresa']">Cel Soft</a>
+              <br>
+              <div class="d-block"> Não respondida </div>
+            </div>
+          </div>
+        </div>
+        <div class="btn btn-danger " [routerLink]="['/reclamacao/delete']">
+          <span class="float-left"></span>
+          <a>Apagar </a>
+        </div>
+      </div>
+    </div> 
+  </div>
+  <br/><br/>
+
+  <div class="row ">
+    <div class="col-sm-4 offset-md-1">
+      <div class="btn rounded-btn card text-white">
+        <div class="card-header">
+          <div class="row">
+            <div class="col col-xs-9 text-left">
+              <div class="d-block">Conserto PC</div>
+              <a class=" lead nav-link active" [routerLink]="['/empresa/perfilEmpresa']">Logiquant</a>
+              <br>
+              <div class="d-block" [routerLink]="['/reclamacao/resposta']"> Respondida </div>
+            </div>
+          </div>
+        </div>
+        <div class="btn btn-danger " [routerLink]="['/reclamacao/delete']">
+          <span class="float-left"></span>
+          <a>Apagar </a>
+        </div>
+      </div>
+    </div> <br><br><br><br><br>
+
+    <div class="col-sm-4 offset-md-1">
+      <div class="btn rounded-btn card text-white">
+        <div class="card-header">
+          <div class="row">
+            <div class="col col-xs-9 text-left">
+              <div class="d-block">Smartphone faltando peças</div>
+              <a class=" lead nav-link active" [routerLink]="['/empresa/perfilEmpresa']">Eletricom</a>
+              <br>
+              <div class="d-block"> Resolvida </div>
+            </div>
+          </div>
+        </div>
+        <div class="btn btn-danger " [routerLink]="['/reclamacao/delete']">
+          <span class="float-left"></span>
+          <a>Apagar </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
